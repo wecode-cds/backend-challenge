@@ -24,7 +24,10 @@ Além disso, a API deve implementar autenticação utilizando JWT (JSON Web Toke
 - Usar PostgreSQL para armazenamento dos dados
 - Seguir os princípios de Clean Architecture
 - Implementar autenticação JWT
-- Utilizar a biblioteca `bcryptjs` para criação de senhas
+- Utilizar a biblioteca `bcryptjs` para gerenciamento de senhas
+
+## Diferencial
+- Escrever testes unitários com JEST
 
 ## Funcionalidades
 
